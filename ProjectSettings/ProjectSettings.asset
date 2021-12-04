@@ -594,6 +594,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -614,10 +615,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 84f5c0ca-a2c4-4e65-8eaa-5c4c89132f41
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Spotlight
+  organizationId: unity_ag0fcfs9unoxwg
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
